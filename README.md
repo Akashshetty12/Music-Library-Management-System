@@ -28,28 +28,6 @@ It allows users to add, search, and manage songs, albums, and artists in one pla
 ├── music_db.sql    # Database schema
 ```
 
----
-
-## ⚡ Installation & Setup
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Akashshetty12/Music-Library-Management-System.git
-   ```
-2. Import `music_db.sql` into your MySQL database.  
-3. Place the project folder in your server directory (`htdocs` for XAMPP, `www` for WAMP).  
-4. Start Apache and MySQL.  
-5. Open in browser:
-   ```
-   http://localhost/Music-Library-Management-System
-   ```
-
----
-
-## 📸 Screenshots
-*(Add screenshots of your UI here for a better README)*
-
----
-
 ## 👨‍💻 Author
 **Akash Shetty**  
-🔗 [GitHub Profile](https://github.com/Akashshetty12)
+**B.Tech in Computer Science and Engineering**  
